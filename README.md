@@ -28,12 +28,3 @@ public class Shroud{
     }
 }
 ```
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1MjQxDSHKhnGM9JoOY2b2uGd"
-  publishable-key="pk_live_51MhCxQSHKhnGM9JoyDY3R7mZduqv4ExT35RKceIBDOCQDGPhGfysJacmejGT6MT5pixtevKwFR8fJBXNmGfcdp7R00OPAidziC"
->
-</stripe-buy-button>
